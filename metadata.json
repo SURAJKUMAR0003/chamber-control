@@ -1,0 +1,6 @@
+{
+  "name": "Full Pack Chamber Monitor",
+  "description": "Real-time IoT storage and pack chamber monitoring dashboard for temperature and humidity sensors via Firebase Realtime Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
